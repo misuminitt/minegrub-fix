@@ -57,6 +57,9 @@ sudo update-grub
 sudo reboot
 ```
 
+# Auto Fix
+If you want to auto fix without complicated editing file, then you
+Can directly use the auto-fix.sh file that I have prepared.
 # Credits
 
 * Original theme by [**Lxtharia**](https://github.com/Lxtharia/minegrub-theme)
