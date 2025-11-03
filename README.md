@@ -7,13 +7,11 @@
 
 # Overview
 used the original [**Minegrub Theme by Lxtharia**](https://github.com/Lxtharia/minegrub-theme),  
-but on my system there was an issue that caused only **one of the two scenes** (either Minegrub *or* World Selection) to appear.
+but on my system there was an issue that caused only one of the two scenes (either Minegrub *or* World Selection) to appear.
 
 If you encounter the same problem — where only one theme loads —  
 you can follow this simple fix guide before proceeding with the installation steps below.  
-This guide ensures **both scenes** (Start Menu and World Selection) appear properly.
-
-Tested and working perfectly on **Kali Linux 2025.3 (KDE Plasma)** dual-booted with **Windows 11**.
+This guide ensures both scenes (Start Menu and World Selection) appear properly.
 
 ### Installation 
 Clone the Repository
