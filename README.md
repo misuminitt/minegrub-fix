@@ -59,12 +59,14 @@ sudo reboot
 
 # Auto Fix
 If you want to auto fix without complicated editing file, then you
-Can directly use the auto-fix.sh file that I have prepared.
+Can directly use the `auto-fix.sh` file that I have prepared.
 
-how to use auto-fix.sh
-- sudo ./install.sh #You have to run this first before continue to auto-fix.sh
-- chmod +x auto-fix.sh 
-- sudo ./auto-fix.sh
+- how to use auto-fix.sh
+```bash
+sudo ./install.sh #If you've done it then just skip it
+chmod +x auto-fix.sh 
+sudo ./auto-fix.sh
+```
 
 # Credits
 
