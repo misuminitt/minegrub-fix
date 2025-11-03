@@ -60,6 +60,12 @@ sudo reboot
 # Auto Fix
 If you want to auto fix without complicated editing file, then you
 Can directly use the auto-fix.sh file that I have prepared.
+
+how to use auto-fix.sh
+- sudo ./install.sh #You have to run this first before continue to auto-fix.sh
+- chmod +x auto-fix.sh 
+- sudo ./auto-fix.sh
+
 # Credits
 
 * Original theme by [**Lxtharia**](https://github.com/Lxtharia/minegrub-theme)
